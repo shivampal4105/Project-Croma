@@ -1,2 +1,5 @@
-Hello and welcome 
+#!/bin/bash
+echo "Hello and welcome "
+
+
 
