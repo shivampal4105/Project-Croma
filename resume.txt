@@ -8,3 +8,43 @@ Salary:
 CTC : 20Lk
 takehome: 1.2 laks / PM
 
+
+Name:
+Age:
+Qualificaion:
+Salary:
+
+
+CTC : 20Lk
+takehome: 1.2 laks / PM
+
+
+Name:
+Age:
+Qualificaion:
+Salary:
+
+
+CTC : 20Lk
+takehome: 1.2 laks / PM
+
+
+Name:
+Age:
+Qualificaion:
+Salary:
+
+
+CTC : 20Lk
+takehome: 1.2 laks / PM
+
+
+Name:
+Age:
+Qualificaion:
+Salary:
+
+
+CTC : 20Lk
+takehome: 1.2 laks / PM
+
